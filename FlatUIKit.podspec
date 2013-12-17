@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/Grouper/FlatUIKit"
   s.license      = 'MIT'
   s.authors      = { "Jack Flintermann" => "jack@joingrouper.com", "Grouper" => "jobs@joingrouper.com"}
-  s.source       = { :git => "https://github.com/Grouper/FlatUIKit.git", :tag => "1.2" }
+  s.source       = { :git => "https://github.com/jonathanlu813/FlatUIKit.git", :tag => "1.2" }
   s.platform     = :ios, '5.0'
   s.source_files = 'Classes', 'Classes/**/*.{h,m}'
 
